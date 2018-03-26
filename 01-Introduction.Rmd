@@ -1,0 +1,18 @@
+---
+title: "Test_2"
+author: "AD Giddey"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+site: "bookdown::bookdown_site"
+output: 
+  bookdown::pdf_book:
+    keep_tex: yes
+---
+
+# Chapter 1 {#chap1}
+This will be my first chapter
+
+## Section
+Stuff
+
+## Section
+More Stuff
